@@ -17,3 +17,12 @@ Verses are parsed and tagged to facilitate the use of the book in bible software
 Verses are tagged with UniqueBible.app [<a href='https://github.com/eliranwong/UniqueBible'>https://github.com/eliranwong/UniqueBible</a>].
 
 Minor corrections are done manually by Eliran Wong
+
+Including verses in the original introduction, a total of 2472 verses were identified and tagged.
+
+# Compilation of verses with other bible versions
+* New English Translation (2nd Edition) [upcoming!]
+* Web English Translation [upcoming!]
+* Chinese Union Version [Traditional Chinese] [upcoming!]
+* Chinese Union Version [Simplified Chinese] [upcoming!]
+* you are welcome to suggest more ...
