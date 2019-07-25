@@ -1,10 +1,10 @@
 Compilations with other bible versions are placed here.
 
 # Abbreviations
-CUV = Chinese Union Version (Traditional Chinese)
-CUVs = Chinese Union Version (Simplified Chinese)
-NET = New English Translation (2nd)
-WEB = World English Bilbe
+* CUV = Chinese Union Version (Traditional Chinese)
+* CUVs = Chinese Union Version (Simplified Chinese)
+* NET = New English Translation (2nd)
+* WEB = World English Bilbe
 
 # credits
 
