@@ -27,7 +27,7 @@ KJV is the bible version used in the original compilation.
 In addition to the original compilation, this repository will make available compilations with several other bible versions:
 
 * New English Translation (2nd Edition) [upcoming!]
-* Web English Translation [upcoming!]
+* Web English Bible [upcoming!]
 * Chinese Union Version [Traditional Chinese] [upcoming!]
 * Chinese Union Version [Simplified Chinese] [upcoming!]
 * you are welcome to suggest more ...
