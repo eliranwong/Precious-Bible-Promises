@@ -8,7 +8,7 @@ class PBP:
 
     def exportPBPVerses(self, text):
         outputFile = "PBP_verses_{0}.txt".format(text)
-        verses = self.getTwwyVerses(text)
+        verses = self.getPBPVerses(text)
         f = open(outputFile,'w')
         f.write(verses)
         f.close()
