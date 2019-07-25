@@ -1,1 +1,1 @@
-Template files for compilations with different bible versions.
+Template files created for compilations with different bible versions.
