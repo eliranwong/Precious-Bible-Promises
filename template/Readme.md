@@ -1,1 +1,1 @@
-Template files for compilations other than KJV.
+Template files for compilations with different bible versions.
