@@ -26,8 +26,8 @@ KJV is the bible version used in the original compilation.
 
 In addition to the original compilation, this repository will make available compilations with several other bible versions:
 
-* New English Translation (2nd Edition) [upcoming!]
-* Web English Bible [upcoming!]
-* Chinese Union Version [Traditional Chinese] [upcoming!]
-* Chinese Union Version [Simplified Chinese] [upcoming!]
+* <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/PBP_verses_NET.txt">New English Translation (2nd Edition)</a>
+* <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/PBP_verses_WEB.txt">Web English Bible</a>
+* <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/PBP_verses_CUV.txt">Chinese Union Version [Traditional Chinese]</a>
+* <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/PBP_verses_CUVs.txt">Chinese Union Version [Simplified Chinese]</a>
 * you are welcome to suggest more ...
