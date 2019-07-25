@@ -27,7 +27,10 @@ KJV is the bible version used in the original compilation.
 In addition to the original compilation, this repository will make available compilations with several other bible versions:
 
 * <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/PBP_verses_NET.txt">New English Translation (2nd Edition)</a>
-* <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/PBP_verses_WEB.txt">Web English Bible</a>
+* <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/PBP_verses_WEB.txt">World English Bible</a>
 * <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/PBP_verses_CUV.txt">Chinese Union Version [Traditional Chinese]</a>
 * <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/PBP_verses_CUVs.txt">Chinese Union Version [Simplified Chinese]</a>
 * you are welcome to suggest more ...
+
+# Credits on Bible Versions
+Read <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/other-bible-versions/Readme.md">here</a>.
