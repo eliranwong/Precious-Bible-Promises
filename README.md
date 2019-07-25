@@ -21,6 +21,11 @@ Minor corrections are done manually by Eliran Wong
 Including verses in the original introduction, a total of 2472 verses were identified and tagged.
 
 # Compilation of verses with other bible versions
+
+KJV is the bible version used in the original compilation. 
+
+This repository will compile with several other bible versions:
+
 * New English Translation (2nd Edition) [upcoming!]
 * Web English Translation [upcoming!]
 * Chinese Union Version [Traditional Chinese] [upcoming!]
