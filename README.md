@@ -24,7 +24,7 @@ Including verses in the original introduction, a total of 2472 verses were ident
 
 KJV is the bible version used in the original compilation. 
 
-This repository will compile with several other bible versions:
+In addition to the original compilation, this repository will make available compilations with several other bible versions:
 
 * New English Translation (2nd Edition) [upcoming!]
 * Web English Translation [upcoming!]
