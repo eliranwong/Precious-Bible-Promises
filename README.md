@@ -11,8 +11,12 @@ Also, known as The Scripture Promises, A Collection of the Promises
 of Scripture, Clarke's Scripture Promises, Clarke's Bible Promises,
 Book of Promises, to name but a few.
 
-# Table of Content
+# Files
 <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/table_of_content.txt">Table of Content</a>
+
+<a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/tagged_Original_Introduction_by_Samuel_Clarke.txt">Original Introduction</a>
+
+<a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/tagged_PreciousBiblePromises.txt">Content</a>
 
 # Tagging of verses
 Verses are parsed and tagged to facilitate the use of the book in bible software.  It may also facilitate compilation of verses in other languages or bible versions.
