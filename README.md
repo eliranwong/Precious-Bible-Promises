@@ -14,7 +14,7 @@ Book of Promises, to name but a few.
 # Files
 <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/table_of_content.txt">Table of Content</a>
 
-<a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/tagged_Original_Introduction_by_Samuel_Clarke.txt">Original Introduction</a>
+<a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/tagged_Original_Introduction_by_Samuel_Clarke.txt">Introduction</a>
 
 <a href="https://github.com/eliranwong/Precious-Bible-Promises/blob/master/tagged_PreciousBiblePromises.txt">Content</a>
 
